@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+header {
+    width: 95%,
+    border: 1px solid #FF8000;
+    padding: 30px;
+    border-radius: 20px 0 20px 0;
+    text-align: center;
+}
+p {
+    color:  #000000
+    font-style: italic;
+}
+
+img {
+    width: 40%
+    border: 3px solid #E8BCB9;
+    border-radius:40px 0 40px 0;
+    box-shadow: 6px 6px 10px ;
+}
+h1 {
+    color: #FF8000;
+}
+
+button {
+    display: block;
+    margin:20-x auto;
+    padding:6px 25px;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 8px;
+}
